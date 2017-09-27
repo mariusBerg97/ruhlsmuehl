@@ -29,7 +29,7 @@
  * Ersetze datenbankname_hier_einfuegen
  * mit dem Namen der Datenbank, die du verwenden möchtest.
  */
-define('DB_NAME', 'ruhlsmuehl');
+define('DB_NAME', 'marius_ruhlsmuehl');
 
 /**
  * Ersetze benutzername_hier_einfuegen
